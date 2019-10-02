@@ -1,0 +1,10 @@
+from lesson3 import Lesson
+Wednesday_1 = Lesson('Wednesday', 8, 0,  'Polish')
+Wednesday_2 = Lesson('Wednesday', 9, 0,  'Team_Building')
+Wednesday_3 = Lesson('Wednesday', 10, 0,  'Gymnastics')
+Wednesday_4 = Lesson('Wednesday', 11, 0, 'English')
+Wednesday_5 = Lesson('Wednesday', 12, 0, 'Lessons_with_Jeff')
+Wednesday_6 = Lesson('Wednesday', 13, 0, 'Mathematics')
+Wednesday_7 = Lesson('Wednesday', 14, 0, 'Mathematics')
+Wednesday_8 = Lesson('Wednesday', 15, 0, 'Plastics')
+Wednesday_9 = Lesson('Wednesday', 16, 0, 'Plastics')
